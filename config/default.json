@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://karimayadi:asefthukomplnbvcde1234567890@cluster0.soneq.mongodb.net/auth-f2?retryWrites=true&w=majority",
+    "secret":"fullstack-f2"
+}

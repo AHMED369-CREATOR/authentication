@@ -1,0 +1,6 @@
+//config
+//models
+//server.js
+
+config //models//middlewares//routes//controllers
+app.method(path,handler)
